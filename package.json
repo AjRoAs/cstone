@@ -1,0 +1,24 @@
+{
+  "name": "cstone",
+  "version": "1.0.0",
+  "description": "remake of cornerstone viewer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjRoAs/cstone.git"
+  },
+  "keywords": [
+    "dicom",
+    "images",
+    "medical"
+  ],
+  "author": "Alberto Rojas Astorga MD <arojasastorga@gmail.com> (http://coremedic.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AjRoAs/cstone/issues"
+  },
+  "homepage": "https://github.com/AjRoAs/cstone#readme"
+}
